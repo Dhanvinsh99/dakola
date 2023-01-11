@@ -1,1 +1,3 @@
 # dakola
+this is offline version of a app that idiots use to learn english.
+Dakola is an offline dictionary app that helps you learn English in a more convenient way. It has a simple and intuitive interface that makes it easy to find the word you're looking for quickly. It also has a built-in dictionary that can be used to look up words and definitions. Additionally, it has an offline mode so you can use it even when you don't have an internet connection. So, if you're looking for an easy way to learn English, Dakola is the perfect app for you. Download it today and start learning English the hard way.
